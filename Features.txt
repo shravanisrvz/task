@@ -1,0 +1,6 @@
+welcome to vscode
+
+support for multiple programming lamguage
+intelli-sense
+cross platform support
+extension and support
