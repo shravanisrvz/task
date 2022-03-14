@@ -8,4 +8,6 @@ extension and support
 repository
 web support
 
+git support
+comments
 thank you:)
